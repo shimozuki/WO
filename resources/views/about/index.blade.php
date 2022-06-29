@@ -12,7 +12,7 @@
             <div class="card">
                 <div class="card-body">
 
-                    <table class="table table-hover table-bordered table-stripped" id="example2">
+                    <table class="table table-hover table-bordered table-stripped table-responsive" id="example2">
                         <thead>
                         <tr>
                             <th>No.</th>
