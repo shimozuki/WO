@@ -17,7 +17,7 @@
                       {{ $banners->deskripsi}}
                     </p>
                     <div class="btn-box">
-                      <a href="" class="btn1">
+                      <a href="https://api.whatsapp.com/send?phone={{$aboutes->whatsapp}}&text=Halo%20mau%20menanyakan%20sesuatu" class="btn1">
                         Contact Us
                       </a>
                     </div>

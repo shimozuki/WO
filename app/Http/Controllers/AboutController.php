@@ -35,7 +35,7 @@ class AboutController extends Controller
             'whatsapp' => 'required',
             'email' => 'required|email',
             'tiktok' => 'required',
-            'Website' => 'required',
+            'website' => 'required',
             'image' => 'image|mimes:jpeg,png,jpg,gif,svg|max:2048',
         ]);
         $about = About::find($id);
